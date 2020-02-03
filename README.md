@@ -1,5 +1,5 @@
 # GGJ2020: Breath
-The GGJ site is [here](https://globalgamejam.org/2020/games/breath-8).
+The GGJ site is [here](https://globalgamejam.org/2020/games/breath-8). Breath is a Unity game where you try your best to not run out of oxygen (much like real life).
 
 This project was made collectively by Richard Pan, Dylan Binley, and myself. This makes use of some assets not made by us that we got through the Unity Asset Store and through Google Images. Rest assured, this project is not commercial and will not be played by more than ten people. If you are an owner of one of these assets and have an issue with us using it, please make an Issue in the Issues tab and we can remove whatever.
 
